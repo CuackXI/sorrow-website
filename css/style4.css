@@ -1,0 +1,45 @@
+.rojo{
+    background-color: red;
+}
+.aqua{
+    background-color: aqua;
+}
+.violeta{
+    background-color: purple;
+}
+.verde{
+    background-color: green;
+}
+.naranja{
+    background-color: orange;
+}
+.amarillo{
+    background-color: yellow;
+}
+.grande{
+    height: 400px;
+}
+.chico{
+    height: 200px;
+}
+.chato{
+    height: 50px;
+}
+.chiki{
+    height:80px;
+}
+.border{
+    border-color: white;
+    border-style: solid;
+    border-width: 20px;
+}
+.numero{
+    padding: 60;
+    margin: 20;
+    text-align: center;
+    font-weight: 500;
+    font-size: 150px;
+    font: italic;
+    text-decoration: none;
+    color: rgb(206, 25, 158);
+}
