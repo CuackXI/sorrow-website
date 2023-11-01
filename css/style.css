@@ -34,15 +34,14 @@ nav a {
     color: #fff;
     font-weight: bold;
     font-size: 16px;
-    transition: background-color 0.3s, border-radius 0.3s; /* Agrega una transición suave */
-    padding: 10px 20px; /* Aumenta el espacio para que la zona redondeada sea más evidente */
+    transition: background-color 0.3s, border-radius 0.3s;
+    padding: 10px 20px;
     border-radius: 15%;
 }
 
-/* Cambia el color de fondo al pasar el mouse por encima del enlace */
 nav a:hover {
-    background-color: rgba(138, 135, 135, 0.295); /* Gris transparente (ajusta el valor "0.5" para cambiar la transparencia) */
-    color: #fffbfb; /* Cambia el color del texto si es necesario */
+    background-color: rgba(138, 135, 135, 0.295);
+    color: #fffbfb;
 }
 main {
     max-width: 800px;
