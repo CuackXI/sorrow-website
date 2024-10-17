@@ -1,1 +1,2 @@
-No se absolutamente nada de github pero me sirve para hostear la página
+# Sorrow
+Juego hecho con gamemaker para un proyecto del colegio.
