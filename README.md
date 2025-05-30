@@ -1,3 +1,3 @@
 # Sorrow
 Juego hecho con gamemaker para un proyecto del colegio.
-El contenido del repositorio es el contenido de una pagina web estática con info relevante del juego y un link directo al juego desde la web.
+Este repositorio contiene la página web que utilizamos para la presentación del mismo en la Expo-Huergo 2023.
