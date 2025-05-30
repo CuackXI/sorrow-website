@@ -6,7 +6,6 @@ Este repositorio contiene la **página web** utilizada para la presentación del
 
 ## Jugar
 
-Podés jugar *Sorrow* online desde el siguiente enlace:  
-🔗 [https://gx.games/es/games/mdsrlr/sorrow-/](https://gx.games/es/games/mdsrlr/sorrow-/)
+Podés jugar a **Sorrow** desde el siguiente enlace: [Sorrow en GX Games](https://gx.games/es/games/mdsrlr/sorrow-/)
 
 ---
